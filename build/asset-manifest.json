@@ -1,29 +1,28 @@
 {
   "files": {
-    "main.css": "/Kanika-Portfolio-React/static/css/main.bdd1b579.css",
-    "main.js": "/Kanika-Portfolio-React/static/js/main.6e2cf386.js",
-    "static/media/bgGif.gif": "/Kanika-Portfolio-React/static/media/bgGif.dba754e4c6102ecaf623.gif",
-    "static/media/technicalDocumentation.png": "/Kanika-Portfolio-React/static/media/technicalDocumentation.ba014c42cc0b43e80f80.png",
-    "static/media/aboutGif.gif": "/Kanika-Portfolio-React/static/media/aboutGif.735c24192fcb0973f872.gif",
-    "static/media/newsApp.png": "/Kanika-Portfolio-React/static/media/newsApp.b7052464afec74d28c51.png",
-    "static/media/surveyForm.png": "/Kanika-Portfolio-React/static/media/surveyForm.04a47a714ff2e1581189.png",
-    "static/media/twitterClone.png": "/Kanika-Portfolio-React/static/media/twitterClone.d11af2084235facb294f.png",
-    "static/media/tributePage.png": "/Kanika-Portfolio-React/static/media/tributePage.a7781bd7c28fca50d965.png",
-    "static/media/ProductLandingPage.png": "/Kanika-Portfolio-React/static/media/ProductLandingPage.6d5ffdbc6c06c135ceaf.png",
-    "static/media/hackerMan.png": "/Kanika-Portfolio-React/static/media/hackerMan.4c4be4808bee06027155.png",
-    "static/media/stickyNavbar.png": "/Kanika-Portfolio-React/static/media/stickyNavbar.58cda607b9ad7454f0a3.png",
-    "static/media/heroImg.jpeg": "/Kanika-Portfolio-React/static/media/heroImg.c57031c4a62552ac652e.jpeg",
-    "static/media/profile.jpg": "/Kanika-Portfolio-React/static/media/profile.3cdec36f77dc5b6fa354.jpg",
-    "static/media/contactBg.jpg": "/Kanika-Portfolio-React/static/media/contactBg.614198905edd3e9fcb2a.jpg",
-    "static/media/textUtils.png": "/Kanika-Portfolio-React/static/media/textUtils.e679ee8fc3c7e1ccda42.png",
-    "static/media/stopWatch.png": "/Kanika-Portfolio-React/static/media/stopWatch.8d4d48da590167211125.png",
-    "static/media/validationForm.png": "/Kanika-Portfolio-React/static/media/validationForm.d55dc0fae25ab447a088.png",
-    "index.html": "/Kanika-Portfolio-React/index.html",
-    "main.bdd1b579.css.map": "/Kanika-Portfolio-React/static/css/main.bdd1b579.css.map",
-    "main.6e2cf386.js.map": "/Kanika-Portfolio-React/static/js/main.6e2cf386.js.map"
+    "main.css": "/static/css/main.54233bbf.css",
+    "main.js": "/static/js/main.0ca3d7fc.js",
+    "static/media/technicalDocumentation.png": "/static/media/technicalDocumentation.ba014c42cc0b43e80f80.png",
+    "static/media/newsApp.png": "/static/media/newsApp.b7052464afec74d28c51.png",
+    "static/media/surveyForm.png": "/static/media/surveyForm.04a47a714ff2e1581189.png",
+    "static/media/twitterClone.png": "/static/media/twitterClone.d11af2084235facb294f.png",
+    "static/media/tributePage.png": "/static/media/tributePage.a7781bd7c28fca50d965.png",
+    "static/media/ProductLandingPage.png": "/static/media/ProductLandingPage.6d5ffdbc6c06c135ceaf.png",
+    "static/media/hackerMan.png": "/static/media/hackerMan.4c4be4808bee06027155.png",
+    "static/media/my-profile.jpg": "/static/media/my-profile.982aecd541029475c3b7.jpg",
+    "static/media/about-img2.jpg": "/static/media/about-img2.52acc6b4c070724255d8.jpg",
+    "static/media/stickyNavbar.png": "/static/media/stickyNavbar.58cda607b9ad7454f0a3.png",
+    "static/media/bgImg.png": "/static/media/bgImg.6ad40e4146ac951613e6.png",
+    "static/media/heroImg.jpeg": "/static/media/heroImg.c57031c4a62552ac652e.jpeg",
+    "static/media/textUtils.png": "/static/media/textUtils.e679ee8fc3c7e1ccda42.png",
+    "static/media/stopWatch.png": "/static/media/stopWatch.8d4d48da590167211125.png",
+    "static/media/validationForm.png": "/static/media/validationForm.d55dc0fae25ab447a088.png",
+    "index.html": "/index.html",
+    "main.54233bbf.css.map": "/static/css/main.54233bbf.css.map",
+    "main.0ca3d7fc.js.map": "/static/js/main.0ca3d7fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdd1b579.css",
-    "static/js/main.6e2cf386.js"
+    "static/css/main.54233bbf.css",
+    "static/js/main.0ca3d7fc.js"
   ]
 }
