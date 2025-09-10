@@ -1,0 +1,39 @@
+import React, { useEffect } from "react";
+import Work from "./Work";
+import projectData from "./workData";
+import HeroImg from "./HeroImg";
+
+function Projects(props) {
+  useEffect(() => {
+    document.title = "Projects | Kanika";
+  }, []);
+
+  return (
+    <div className="main-content">
+      <HeroImg
+        heading="Projects"
+        paragraph="Diving into My Project Showcase."
+      />
+
+      <div className="container mb-5 px-5">
+        <h1 className="my-5 text-center">{props.heading}</h1>
+        <div className="row">
+          {projectData.map((element) => {
+            return (
+              <div className="col-md-4" key={element.imgsrc}>
+                <Work
+                  imgsrc={element.imgsrc}
+                  title={element.title}
+                  description={element.description}
+                  view={element.view}
+                />
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default Projects;
