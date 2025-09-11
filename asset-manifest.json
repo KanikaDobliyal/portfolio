@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ba28bd98.css",
+    "main.js": "/portfolio/static/js/main.e1b51fd5.js",
+    "static/media/technicalDocumentation.png": "/portfolio/static/media/technicalDocumentation.ba014c42cc0b43e80f80.png",
+    "static/media/newsApp.png": "/portfolio/static/media/newsApp.b7052464afec74d28c51.png",
+    "static/media/surveyForm.png": "/portfolio/static/media/surveyForm.04a47a714ff2e1581189.png",
+    "static/media/twitterClone.png": "/portfolio/static/media/twitterClone.d11af2084235facb294f.png",
+    "static/media/tributePage.png": "/portfolio/static/media/tributePage.a7781bd7c28fca50d965.png",
+    "static/media/ProductLandingPage.png": "/portfolio/static/media/ProductLandingPage.6d5ffdbc6c06c135ceaf.png",
+    "static/media/hackerMan.png": "/portfolio/static/media/hackerMan.4c4be4808bee06027155.png",
+    "static/media/my-profile.jpg": "/portfolio/static/media/my-profile.982aecd541029475c3b7.jpg",
+    "static/media/about-img2.jpg": "/portfolio/static/media/about-img2.52acc6b4c070724255d8.jpg",
+    "static/media/stickyNavbar.png": "/portfolio/static/media/stickyNavbar.58cda607b9ad7454f0a3.png",
+    "static/media/bgImg.png": "/portfolio/static/media/bgImg.6ad40e4146ac951613e6.png",
+    "static/media/heroImg.jpeg": "/portfolio/static/media/heroImg.c57031c4a62552ac652e.jpeg",
+    "static/media/textUtils.png": "/portfolio/static/media/textUtils.e679ee8fc3c7e1ccda42.png",
+    "static/media/stopWatch.png": "/portfolio/static/media/stopWatch.8d4d48da590167211125.png",
+    "static/media/validationForm.png": "/portfolio/static/media/validationForm.d55dc0fae25ab447a088.png",
+    "index.html": "/portfolio/index.html",
+    "main.ba28bd98.css.map": "/portfolio/static/css/main.ba28bd98.css.map",
+    "main.e1b51fd5.js.map": "/portfolio/static/js/main.e1b51fd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba28bd98.css",
+    "static/js/main.e1b51fd5.js"
+  ]
+}
