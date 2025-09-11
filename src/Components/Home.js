@@ -1,6 +1,7 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import bgImg from "./Images/bgImg.png";
 import myProfile from "./Images/my-profile.jpg";
+import { Link } from "react-router-dom";
 
 const Home = (props) => {
   useEffect(() => {
@@ -8,6 +9,7 @@ const Home = (props) => {
   }, []);
 
   return (
+
     <div className="main-content">
       <div
         className="mask position-relative top-0 start-0"
@@ -54,9 +56,17 @@ const Home = (props) => {
         >
           {props.designation}
         </p>
+
+<div className="mt-5 about-btn">
+<Link className="nav-link fw-semibold text-center border py-3 border-rounded" to="/about">
+                About Me <i className="fa fa-angle-double-right"></i>
+              </Link>
+</div>
+        
       </div>
-      
+
     </div>
+
   );
 };
 

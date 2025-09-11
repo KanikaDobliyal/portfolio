@@ -30,13 +30,7 @@ function About(props) {
   return (
     <div className="main-content">
       <HeroImg heading="About Me" />
-      <AboutHome
-        heading="Who am I ?"
-        paragraph=" I am proficient in building responsive and dynamic web applications
-            using HTML, CSS, and JavaScript. My expertise lies in frontend
-            development, where I leverage frameworks like React.js and libraries
-            like Bootstrap to create modern and user-friendly interfaces."
-      />
+      <AboutHome />
 
       <div className="container my-5 text-center">
         <h1
@@ -47,173 +41,123 @@ function About(props) {
         </h1>
         <div className="row d-flex justify-content-lg-evenly text-center mt-4">
           <div className="col-lg-2 col-4 my-4 skills animate__animated animate__pulse">
-            <a
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
               <img
                 className="rounded"
                 src={html}
                 alt="html-img"
                 style={skillsIcon}
               />
-            </a>
           </div>
           <div className="col-lg-2 col-4 my-4 skills animate__animated animate__pulse">
-            <a
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+        
               <img
                 className="rounded"
                 src={css}
                 alt="css-img"
                 style={skillsIcon}
               />
-            </a>
+          
           </div>
           <div className="col-lg-2 col-4 my-4 skills animate__animated animate__pulse">
-            <a
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+           
               <img
                 className="rounded"
                 src={javascript}
                 alt="javascript-img"
                 style={skillsIcon}
               />
-            </a>
+           
           </div>
           <div className="col-lg-2 col-4 my-4 skills animate__animated animate__pulse">
-            <a
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            
               <img
                 className="rounded"
                 src={react}
                 alt="react-img"
                 style={skillsIcon}
               />
-            </a>
+         
           </div>
           <div className="col-lg-2 col-4 my-4 skills animate__animated animate__pulse">
-            <a
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+           
               <img
                 className="rounded"
                 src={bootstrap}
                 alt="bootstrap-img"
                 style={skillsIcon}
               />
-            </a>
+           
           </div>
           <div className="col-lg-2 col-4 my-4 skills animate__animated animate__pulse">
-            <a
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+           
               <img
                 className="rounded"
                 src={tailwind}
                 alt="tailwind-img"
                 style={skillsIcon}
               />
-            </a>
+           
           </div>
           <div className="col-lg-2 col-4 my-4 skills animate__animated animate__pulse">
-            <a
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+          
               <img
                 className="rounded"
                 src={git}
                 alt="git-img"
                 style={skillsIcon}
               />
-            </a>
+          
           </div>
           <div className="col-lg-2 col-4 my-4 skills animate__animated animate__pulse">
-            <a
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+           
               <img
                 className="rounded"
                 src={github}
                 alt="github-img"
                 style={skillsIcon}
               />
-            </a>
+           
           </div>
 
           <div className="col-lg-2 col-4 my-4 skills animate__animated animate__pulse">
-            <a
-              href="https://github.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+          
               <img
                 className="rounded"
                 src={wordpress}
                 alt="github-img"
                 style={skillsIcon}
               />
-            </a>
+           
           </div>
           <div className="col-lg-2 col-4 my-4 skills animate__animated animate__pulse">
-            <a
-              href="https://github.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+           
               <img
                 className="rounded"
                 src={photoshop}
                 alt="github-img"
                 style={skillsIcon}
               />
-            </a>
+           
           </div>
           <div className="col-lg-2 col-4 my-4 skills animate__animated animate__pulse">
-            <a
-              href="https://github.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+           
               <img
                 className="rounded"
                 src={vscode}
                 alt="github-img"
                 style={skillsIcon}
               />
-            </a>
+          
           </div>
           <div className="col-lg-2 col-4 my-4 skills animate__animated animate__pulse">
-            <a
-              href="https://github.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+           
               <img
                 className="rounded"
                 src={canva}
                 alt="github-img"
                 style={skillsIcon}
               />
-            </a>
+           
           </div>
         </div>
       </div>

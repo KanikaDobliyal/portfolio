@@ -35,7 +35,7 @@ const NavBar = () => {
   };
 
   const offcanvasStyle = {
-    backgroundColor: "rgb(0 0 0 / 41%)",
+    backgroundColor: "rgb(0 0 0 / 80%)",
     color: "white",
   };
 
