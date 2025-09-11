@@ -1,6 +1,7 @@
-import React from "react";
+
 import myProfile from "./Images/my-profile.jpg";
 import aboutImg from "./Images/about-img2.jpg";
+
 
 function AboutHome(props) {
 
@@ -63,7 +64,7 @@ function AboutHome(props) {
               <i className="fa fa-download fs-5"></i>
               <div>
                 <p className="mb-0">Download CV</p>
-                <a href="#" target="_blank" className="fw-semibold text-decoration-underline text-warning">
+                <a  href={process.env.PUBLIC_URL + "/CV_Kanika_Dobliyal.pdf"} target="_blank" className="fw-semibold text-decoration-underline text-warning">
                   Download CV
                 </a>
               </div>
