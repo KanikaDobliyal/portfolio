@@ -141,7 +141,7 @@ body.dark-mode .nav-link {
 .about-text {
     padding: 0 0 0 20px;
     text-align: center;
-    top: 20%;
+    top: 20% !important;
 }
 .about-text h1{
   font-size: 40px !important;
