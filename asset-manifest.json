@@ -1,15 +1,25 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7e79c8d8.css",
-    "main.js": "/portfolio/static/js/main.c355142f.js",
+    "main.js": "/portfolio/static/js/main.e7a60883.js",
     "static/media/technicalDocumentation.png": "/portfolio/static/media/technicalDocumentation.ba014c42cc0b43e80f80.png",
     "static/media/newsApp.png": "/portfolio/static/media/newsApp.b7052464afec74d28c51.png",
     "static/media/surveyForm.png": "/portfolio/static/media/surveyForm.04a47a714ff2e1581189.png",
     "static/media/twitterClone.png": "/portfolio/static/media/twitterClone.d11af2084235facb294f.png",
     "static/media/tributePage.png": "/portfolio/static/media/tributePage.a7781bd7c28fca50d965.png",
     "static/media/ProductLandingPage.png": "/portfolio/static/media/ProductLandingPage.6d5ffdbc6c06c135ceaf.png",
+    "static/media/beidubai-img.jpg": "/portfolio/static/media/beidubai-img.027376c2316434acacbf.jpg",
+    "static/media/himalayan-derive-img.jpg": "/portfolio/static/media/himalayan-derive-img.07345fd76771e824cba6.jpg",
     "static/media/hackerMan.png": "/portfolio/static/media/hackerMan.4c4be4808bee06027155.png",
+    "static/media/canadian-aviation-img.jpg": "/portfolio/static/media/canadian-aviation-img.ca82d718db222d97387d.jpg",
+    "static/media/odhani-img.jpg": "/portfolio/static/media/odhani-img.0f656b74491d3d9f05b8.jpg",
+    "static/media/skpharma-img.jpg": "/portfolio/static/media/skpharma-img.81b480cdcb7f4ba884ae.jpg",
+    "static/media/mindspring-img.jpg": "/portfolio/static/media/mindspring-img.4a0b62f6a551e4a3e5f3.jpg",
+    "static/media/xgram-img.jpg": "/portfolio/static/media/xgram-img.e7bfaab6795f62b218ef.jpg",
+    "static/media/vastravriksh-img.jpg": "/portfolio/static/media/vastravriksh-img.10af4bc71f973b2b59ee.jpg",
+    "static/media/pulse-news-img.jpg": "/portfolio/static/media/pulse-news-img.3a5861842e1846805ead.jpg",
     "static/media/my-profile.jpg": "/portfolio/static/media/my-profile.982aecd541029475c3b7.jpg",
+    "static/media/seven-ocean-img.jpg": "/portfolio/static/media/seven-ocean-img.384b0fe0d9f44108f713.jpg",
     "static/media/about-img2.jpg": "/portfolio/static/media/about-img2.52acc6b4c070724255d8.jpg",
     "static/media/stickyNavbar.png": "/portfolio/static/media/stickyNavbar.58cda607b9ad7454f0a3.png",
     "static/media/bgImg.png": "/portfolio/static/media/bgImg.6ad40e4146ac951613e6.png",
@@ -19,10 +29,10 @@
     "static/media/validationForm.png": "/portfolio/static/media/validationForm.d55dc0fae25ab447a088.png",
     "index.html": "/portfolio/index.html",
     "main.7e79c8d8.css.map": "/portfolio/static/css/main.7e79c8d8.css.map",
-    "main.c355142f.js.map": "/portfolio/static/js/main.c355142f.js.map"
+    "main.e7a60883.js.map": "/portfolio/static/js/main.e7a60883.js.map"
   },
   "entrypoints": [
     "static/css/main.7e79c8d8.css",
-    "static/js/main.c355142f.js"
+    "static/js/main.e7a60883.js"
   ]
 }
