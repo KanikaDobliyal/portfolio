@@ -9,8 +9,99 @@ import stopWatch from "./Images/stopWatch.png";
 import hackerMan from "./Images/hackerMan.png";
 import twitterClone from "./Images/twitterClone.png";
 import newsApp from "./Images/newsApp.png";
+import pulsenews from "./Images/project-images/pulse-news-img.jpg";
+import sevenocean from "./Images/project-images/seven-ocean-img.jpg";
+import mindspring from "./Images/project-images/mindspring-img.jpg";
+import himalayanderive from "./Images/project-images/himalayan-derive-img.jpg";
+import skpharma from "./Images/project-images/skpharma-img.jpg";
+import canadianaviation from "./Images/project-images/canadian-aviation-img.jpg";
+import beidubai from "./Images/project-images/beidubai-img.jpg";
+import xgram from "./Images/project-images/xgram-img.jpg";
+import vastravriksh from "./Images/project-images/vastravriksh-img.jpg";
+import odhaniethnics from "./Images/project-images/odhani-img.jpg";
 
 const projectData = [
+    {
+    imgsrc: odhaniethnics,
+    title: "Odhani Ethnics",
+    description:
+      "Odhani Ethnics is an online fashion store offering elegant ethnic wear for women, including traditional and contemporary outfits crafted with premium fabrics and modern designs.",
+    view: "https://odhaniethnics.com/",
+  },
+
+    {
+    imgsrc: vastravriksh,
+    title: "Vastravriksh",
+    description:
+      "Vastravriksh is a sustainable fashion brand focused on eco-friendly clothing that blends traditional craftsmanship with modern style, promoting conscious and responsible fashion choices.",
+    view: "https://vastravriksh.com/",
+  },
+
+  {
+    imgsrc: xgram,
+    title: "Xgram",
+    description:
+      "Xgram is a digital marketing and branding platform that helps businesses grow their online presence through social media marketing, creative campaigns, and strategic digital solutions.",
+    view: "https://xgram.in/",
+  },
+
+    {
+    imgsrc: beidubai,
+    title: "BEI Dubai",
+    description:
+      "BEI Dubai is a construction and renovation company specializing in residential upgrades, commercial fit-outs, and premium interior solutions across Dubai, delivering high-quality and customized spaces.",
+    view: "https://beidubai.com/",
+  },
+
+    {
+    imgsrc: canadianaviation,
+    title: "The Canadian Aviation",
+    description:
+      "The Canadian Aviation is an aviation training and consultancy platform that provides guidance, career information, and professional support for aspiring pilots and aviation professionals.",
+    view: "https://thecanadianaviation.com/",
+  },
+
+
+    {
+    imgsrc: skpharma,
+    title: "SK Pharma Consultants",
+    description:
+      "SK Pharma Consultants is a pharmaceutical consultancy firm offering regulatory support, compliance services, and end-to-end guidance for pharma businesses and healthcare companies.",
+    view: "https://skpharmaconsultants.com/",
+  },
+
+  {
+    imgsrc: himalayanderive,
+    title: "Himalayan Derive",
+    description:
+      "Himalayan Derive is a travel and trekking platform offering guided adventure tours, Himalayan treks, and customized travel experiences for nature and adventure enthusiasts.",
+    view: "https://himalayanderive.com/",
+  },
+
+    {
+    imgsrc: mindspring,
+    title: "Mindspring Languages",
+    description:
+      "Mindspring Languages is a language training institute specializing in German language courses, providing structured programs, certification preparation, and personalized learning support.",
+    view: "https://mindspringlanguages.com/",
+  },
+
+  {
+    imgsrc: sevenocean,
+    title: "Seven Ocean Shipping",
+    description:
+      "Seven Ocean Shipping is a logistics and shipping company offering reliable freight forwarding, cargo handling, and international transportation solutions for businesses worldwide.",
+    view: "https://sevenoceanshipping.in/",
+  },
+
+  {
+    imgsrc: pulsenews,
+    title: "Pulse24 News",
+    description:
+      "Pulse24 News is a digital news platform delivering timely updates, trending stories, and in-depth coverage across politics, business, entertainment, and global affairs.",
+    view: "https://pulse24news.com/",
+  },
+
   {
     imgsrc: twitterClone,
     title: "Twitter Clone",
