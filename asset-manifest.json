@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.56b82469.css",
-    "main.js": "/portfolio/static/js/main.7e62fbd7.js",
+    "main.js": "/portfolio/static/js/main.0565fd3d.js",
     "static/media/twitterClone.png": "/portfolio/static/media/twitterClone.d11af2084235facb294f.png",
     "static/media/beidubai-img.jpg": "/portfolio/static/media/beidubai-img.027376c2316434acacbf.jpg",
     "static/media/kotagurukul-img.jpg": "/portfolio/static/media/kotagurukul-img.3315aace450c77aa95af.jpg",
@@ -27,10 +27,10 @@
     "static/media/textUtils.png": "/portfolio/static/media/textUtils.e679ee8fc3c7e1ccda42.png",
     "index.html": "/portfolio/index.html",
     "main.56b82469.css.map": "/portfolio/static/css/main.56b82469.css.map",
-    "main.7e62fbd7.js.map": "/portfolio/static/js/main.7e62fbd7.js.map"
+    "main.0565fd3d.js.map": "/portfolio/static/js/main.0565fd3d.js.map"
   },
   "entrypoints": [
     "static/css/main.56b82469.css",
-    "static/js/main.7e62fbd7.js"
+    "static/js/main.0565fd3d.js"
   ]
 }
